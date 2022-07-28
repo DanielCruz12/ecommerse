@@ -36,3 +36,19 @@
     transform: rotate(360deg);
   }
 }
+
+.BannerPrincipal{
+  width: 100vw;
+  height: 50vh;
+}
+
+.LogoPrincipal{
+  width: 7vw;
+  top: 0;
+}
+
+
+
+
+
+
